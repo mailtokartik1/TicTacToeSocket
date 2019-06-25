@@ -1,2 +1,2 @@
 # TicTacToeSocket
-A TicTacToe server that lets client play TicTacToe against them using concepts from socket programming
+A TicTacToe server that lets client play TicTacToe against each other using concepts from socket programming
